@@ -11,3 +11,5 @@ Developed a POC for sending server-sent events to client
 # Steps to run
 
 1. go run main.go
+2. Open client.html in browser
+2. Open client.html in browser
